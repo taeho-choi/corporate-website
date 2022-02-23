@@ -5,4 +5,4 @@
 - 개발 언어: <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/> 
 
 ## Preview
-![127 0 0 1_5500_index html](https://user-images.githubusercontent.com/60216512/155305767-a5ed082c-3f0c-4163-9d77-34dc1d649f6d.png)
+![127 0 0 1_5500_index html](https://user-images.githubusercontent.com/60216512/155306129-87719dcd-76b3-4eb5-a621-a4f65c42a2d3.png)
